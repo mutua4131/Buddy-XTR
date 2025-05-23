@@ -64,7 +64,7 @@
     },
     "AUTO_BLOCK": {
       "description": "Enable bot to auto-block specific numbers (true/false)",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "REJECT_CALL": {
